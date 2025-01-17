@@ -12,8 +12,8 @@ Below are the DATA related projects I have done! 😄
 ### 📇 Data Projects
                                                                                                                                           
 - [ 🏨 Hostel Management System ](https://github.com/ShivrajRameshPatil/Hostel-Management-System)
-  
-                                                                                 
+- [ ⚕️ Power BI- US Healthcare Industry Dynamics Analysis ](https://github.com/ShivrajRameshPatil/Power-BI-US-Healthcare-Industry-Dynamics-Analysis)
+                                                                                   
 ---    
 
 ### 💻 Tech Stack:
