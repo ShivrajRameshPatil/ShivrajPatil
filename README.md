@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
 
-I'm Shivraj Patil, a data enthusiast. My career pursuit is towards becoming a Data Analyst/ Engineer.
+I'm Shivraj Patil, a data enthusiast with a career pursuit toward becoming a Data Analyst/Engineer, driven by a passion for uncovering insights and creating impactful solutions.
 
 Below are the DATA related projects I have done! 😄
 
