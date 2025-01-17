@@ -13,7 +13,8 @@ Below are the DATA related projects I have done! 😄
                                                                                                                                           
 - [ 🏨 Hostel Management System ](https://github.com/ShivrajRameshPatil/Hostel-Management-System)
 - [ ⚕️ Power BI- US Healthcare Industry Dynamics Analysis ](https://github.com/ShivrajRameshPatil/Power-BI-US-Healthcare-Industry-Dynamics-Analysis)
-- [ 💼 Power BI- HR Workforce Analysis ](https://github.com/ShivrajRameshPatil/Power-BI-HR-Workforce-Analysis)                                                                                
+- [ 💼 Power BI- HR Workforce Analysis ](https://github.com/ShivrajRameshPatil/Power-BI-HR-Workforce-Analysis)
+- [ 📦 Tableau-Amazon-Shipping-Analytics ](https://github.com/ShivrajRameshPatil/Tableau-Amazon-Shipping-Analytics)                                                                          
 ---    
 
 ### 💻 Tech Stack:
