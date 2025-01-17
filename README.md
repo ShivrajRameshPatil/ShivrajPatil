@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
 
-I'm Sourav Ganesha, a Computer Science graduate student at Concordia University. My career pursuit is towards becoming a Data Engineer/ Analyst.
+I'm Shivraj Patil, a data enthusiast. My career pursuit is towards becoming a Data Analyst/ Engineer.
 
 Below are the DATA related projects I have done! 😄
 
@@ -17,8 +17,4 @@ Below are the DATA related projects I have done! 😄
 - [ 👨🏻‍💻 Power BI - Realtime CPU/Memory Usage Visualization ](https://github.com/SouravGanesh/RealTime-CPU-Memory-Usage-Analysis/)                                                                                 
 ---                                                                                                                        
 
-### 📝 Study Notes
-
-- [ 📔 Data Digest ](https://github.com/SouravGanesh/Data-Digest)
-- [ 🛢️ SQL ](https://github.com/SouravGanesh/SQL/)
-- [ 🐍 Python ](https://github.com/SouravGanesh/Python/)     
+   
